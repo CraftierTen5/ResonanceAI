@@ -1,6 +1,6 @@
 # ResonanceAI
 
-**Winner — Best Synergy Usecase, AI Synergy Hackathon 2.0**
+**Winner - Best Synergy Usecase, AI Synergy Hackathon 2.0**
 
 ResonanceAI is an AI-assisted learning platform with assignment-aware tutoring and policy-controlled response generation. It combines student-facing interfaces with a backend pipeline for text and image preprocessing, institution-scoped data management, policy classification, and AI-generated tutoring responses.
 
