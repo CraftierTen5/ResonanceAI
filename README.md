@@ -7,7 +7,6 @@ ResonanceAI is an AI-assisted learning platform with assignment-aware tutoring a
 The backend uses a local Qwen inference adapter for intent and action classification, while configured Groq or Gemini providers generate student-facing responses. A policy enforcement layer determines which actions are permitted before response generation.
 
 
-# Application Screenshots & Results
 
 ## 1. Student Dashboard
 
