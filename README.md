@@ -1,4 +1,12 @@
-**Winner - Best Synergy Usecase, AI Synergy Hackathon 2.0**
+# ResonanceAI
+
+**Winner — Best Synergy Usecase, AI Synergy Hackathon 2.0**
+
+ResonanceAI is an AI-assisted learning platform with assignment-aware tutoring and policy-controlled response generation. It combines student-facing interfaces with a backend pipeline for text and image preprocessing, institution-scoped data management, policy classification, and AI-generated tutoring responses.
+
+The backend uses a local Qwen inference adapter for intent and action classification, while configured Groq or Gemini providers generate student-facing responses. A policy enforcement layer determines which actions are permitted before response generation.
+
+
 # Application Screenshots & Results
 
 ## 1. Student Dashboard
