@@ -1,4 +1,4 @@
-
+**Winner - Best Synergy Usecase, AI Synergy Hackathon 2.0**
 # Application Screenshots & Results
 
 ## 1. Student Dashboard
